@@ -6,6 +6,12 @@
 	"main": "server.js",
 	"author": "Ashwin Suresh Babu",
 	"description": "A project that does something awesome",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
 	"scripts": {
 		"start": "node server.js"
 	},
