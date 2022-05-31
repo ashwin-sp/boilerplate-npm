@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "Ashwin Suresh Babu",
+	"description": "A project that does something awesome",
 	"scripts": {
 		"start": "node server.js"
 	},
